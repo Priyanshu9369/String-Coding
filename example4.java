@@ -34,7 +34,7 @@ public class example4 {
        System.out.println(s4.equalsIgnoreCase(s5));
        // case when word is different then what shows it 
        String s6="sundar";
-       System.out.println(s5.equalsIgnoreCase(s6));
+       System.out.println(s5.equalsIgnoreCase(s6));// it shows worng because both word are different 
 
     }
 }
